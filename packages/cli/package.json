@@ -67,7 +67,7 @@
   },
   "devDependencies": {
     "@types/micromatch": "^4.0.10",
-    "msw": "^2.15.0"
+    "msw": "^3.0.1"
   },
   "publishConfig": {
     "access": "public",
